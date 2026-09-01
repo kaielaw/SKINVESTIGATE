@@ -16,5 +16,7 @@ Menghimpun database kandungan skincare beserta penjelasan fungsi dan tingkat kea
 **SDG 3.9** — By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination. 
 
 # Target Pengguna
+Masyarakat umum yang menggunakan produk skincare, khususnya mereka yang ingin lebih memahami apa yang terkandung dalam produk yang mereka pakai — termasuk pemilik kulit sensitif yang perlu menghindari bahan tertentu, dan pengguna pemula yang belum familiar dengan istilah-istilah kandungan skincare.
+
 # Mockup Kasar
 # Skema Database
