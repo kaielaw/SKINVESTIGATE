@@ -19,4 +19,17 @@ Menghimpun database kandungan skincare beserta penjelasan fungsi dan tingkat kea
 Masyarakat umum yang menggunakan produk skincare, khususnya mereka yang ingin lebih memahami apa yang terkandung dalam produk yang mereka pakai — termasuk pemilik kulit sensitif yang perlu menghindari bahan tertentu, dan pengguna pemula yang belum familiar dengan istilah-istilah kandungan skincare.
 
 # Mockup Kasar
+
+![Homepage](<Mockup Homepage-1.png>)
+
+![QR](<Mockup QR.png>)
+
+![Produk 1](<Mockup Produk.png>)
+
+![Produk 2](<Mockup Produk-1.png>)
+
 # Skema Database
+
+![Skema Database](image.png)
+
+![Skema Database 2](<ERD Skinvestigate.png>)
