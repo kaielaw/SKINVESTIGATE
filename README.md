@@ -1,7 +1,11 @@
 # SKINVESTIGATE
 
 # ANGGOTA KELOMPOK
+  1. 140810250008 - Shafira Nailah Afifah
+  2. 140810250023 - Kayla Hessa Ferdinan
+  3. 140810250095 - M Rangga Tri Utama Abdillah
 # FUNGSI
+
 # TUJUAN
 # TARGET PENGGUNA
 # MOCKUP KASAR 
