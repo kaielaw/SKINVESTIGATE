@@ -32,4 +32,4 @@ Masyarakat umum yang menggunakan produk skincare, khususnya mereka yang ingin le
 
 ![Skema Database](image.png)
 
-![Skema Database 2](<ERD Skinvestigate.png>)
+![Skema Database 2](image-1.png)
